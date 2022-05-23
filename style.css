@@ -21,3 +21,9 @@ body {
   float: scroll;
   background-color: lightgoldenrodyellow;
 }
+
+.header {
+  background-image: url(crochet-header.jpg);
+  height: 400px;
+  background-position: center center;
+}
