@@ -2,14 +2,13 @@ h1 {
   color: blue;
   text-align: center;
 }
- img {
-     margin: 20px;
-     border: 150px;
-     padding: 20px;
-     content: 350px;
+ .pink {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
  }
      
-
 
 p {
   color: red;
